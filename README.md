@@ -4,8 +4,9 @@
 
 **UpTermux** is a repository designed to enhance your Termux experience, providing useful features and simplifying the maintenance of your environment.
 
-***Note:*** I recommend you install Termux from the **F-DROID** website or via **Termux's GitHub**:
-[F-Droid Termux](https://f-droid.org/pt_BR/packages/com.termux/)
+***Note:*** I recommend you install Termux from the **F-DROID** website or via **Termux's GitHub**. Websites:
+   
+[**F-Droid Termux**](https://f-droid.org/pt_BR/packages/com.termux/)
 
 ## UpTermux Features
 
