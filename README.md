@@ -25,19 +25,24 @@
 
 ## How to Install
 
-1. Clone this repository into your Termux:
+1. Update the packages and install **git**:
+   ```bash
+   pkg update -y
+   pkg install git
+
+2. Clone this repository into your Termux:
    ```bash
    cd ~/
    git clone https://github.com/imbrunao/UpTermux.git
-2. Enter the folder/directory:
+3. Enter the folder/directory:
    ```bash
    cd ~/UpTermux/
    cd setup/
 
-3. Give permissions for files to be executed:
+4. Give permissions for files to be executed:
    ```bash
    chmod +x *
 
-4. Execute the **setup.sh**:
+5. Execute the **setup.sh**:
    ```bash
    ./setup.sh
