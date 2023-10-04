@@ -7,4 +7,4 @@ termux-setup-storage
 echo "Press 'Allow'"
 pkg upgrade -y && clear
 clear
-echo "Everything updated, now run 'install.sh'"
+echo "Everything updated, now run install.sh: './install.sh'"
