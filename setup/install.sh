@@ -16,4 +16,5 @@ echo "Installing Openssh & Proot-distro"
 pkg install proot-distro openssh -y
 clear
 
-echo "Everything installed. Now go to the 'aliases' folder to place the aliases/shortcuts."
+echo "Everything installed. Now go to the 'aliases' folder to place the aliases/shortcuts: cd ~/UpTermux/Aliases."
+echo "After this, execute: 'chmod +x *'."
