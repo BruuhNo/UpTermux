@@ -7,6 +7,7 @@
 ***Note:*** I recommend you install Termux from the **F-DROID** website or via **Termux's GitHub**. Websites:
    
 [**F-Droid Termux**](https://f-droid.org/pt_BR/packages/com.termux/)
+   
 [**Termux from GitHub**](https://github.com/termux) or [**Click here**](https://github.com/termux/termux-app)
 
 ## UpTermux Features
