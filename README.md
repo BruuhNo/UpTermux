@@ -1,8 +1,7 @@
 # UpTermux
 
 ![Termux Logo](images/20231004_154308.jpg)
-[![Discord](https://img.shields.io/discord/1081705142686064720?color=blue&label=Online%20Users&logo=discord&style=flat-square)](https://discord.gg/YtNqf4xP)
-
+[**Join our *Discord***](https://discord.gg/YtNqf4xP)
 
 **UpTermux** is a repository designed to enhance your Termux experience, providing useful features and simplifying the maintenance of your environment.
 
