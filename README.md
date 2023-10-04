@@ -38,6 +38,6 @@
    ```bash
    chmod +x *
 
-4. Execute the 'setup.sh':
+4. Execute the **setup.sh**:
    ```bash
    ./setup.sh
