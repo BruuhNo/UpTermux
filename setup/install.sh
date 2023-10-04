@@ -3,9 +3,8 @@ clear
 echo "Installing Python & PIP"
 pkg install python python-pip -y
 clear
-echo "Installing NodeJS & NPM"
+echo "Installing NodeJS"
 pkg isntall nodejs -y
-pkg install nodejs
 clear
 echo "Installing Micro Editor"
 pkg install micro -y
