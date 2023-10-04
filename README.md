@@ -27,8 +27,17 @@
 
 1. Clone this repository into your Termux:
    ```bash
+   cd ~/
    git clone https://github.com/imbrunao/UpTermux.git
 2. Enter the folder/directory:
    ```bash
    cd ~/UpTermux/
    cd setup/
+
+3. Give permissions for files to be executed:
+   ```bash
+   chmod +x *
+
+4. Execute the 'setup.sh':
+   ```bash
+   ./setup.sh
