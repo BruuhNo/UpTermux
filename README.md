@@ -31,3 +31,4 @@
 2. Enter the folder/directory:
    ```bash
    cd ~/UpTermux/
+   cd setup/
