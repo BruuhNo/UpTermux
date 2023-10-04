@@ -23,8 +23,11 @@
   - **njs**: Shortcut for "node".
   - **sd**: Shortcut for "cd /sdcard/", providing quick access to the "/sdcard/" directory.
 
-## How to Use
+## How to Install
 
 1. Clone this repository into your Termux:
    ```bash
-   git clone https://github.com/your-username/UpTermux.git
+   git clone https://github.com/imbrunao/UpTermux.git
+2. Enter the folder/directory:
+   ```bash
+   cd ~/UpTermux/
