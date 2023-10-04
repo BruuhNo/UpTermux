@@ -1,6 +1,6 @@
 # UpTermux
 
-![Termux Logo](20231004_154308.jpg)
+![Termux Logo](images/20231004_154308.jpg)
 
 **UpTermux** is a repository designed to enhance your Termux experience, providing useful features and simplifying the maintenance of your environment.
 
