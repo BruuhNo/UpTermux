@@ -31,6 +31,7 @@
   - **py**: Shortcut for "python".
   - **njs**: Shortcut for "node".
   - **sd**: Shortcut for "cd /sdcard/", providing quick access to the "/sdcard/" directory.
+  - **c**: Shortcut for "clear".
 
 ## How to Install
 
