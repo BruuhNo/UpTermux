@@ -32,7 +32,7 @@
 
 ## How to Install
 
-<p>Olá</p>
+<p style="background: red;">Olá</p>
 1. Update the packages and install **git**:
    ```bash
    pkg update -y
