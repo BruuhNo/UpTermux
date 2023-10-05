@@ -32,4 +32,6 @@ pkg install cmatrix ffmpeg -y
 clear
 
 echo "Everything installed. Now go to the 'aliases' folder to place the aliases/shortcuts: cd ~/UpTermux/Aliases."
-echo "After this, execute: 'chmod +x *'."
+echo " "
+echo "After this, execute: 'chmod +x *' and './aliases.sh'."
+echo " "
