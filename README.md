@@ -1,7 +1,7 @@
 # UpTermux
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wWwRrcvvjW)
 
 ![Termux Logo](images/20231004_154308.jpg)
-[**Join our *Discord***](https://discord.gg/YtNqf4xP)
 
 ## Still in development...
 
