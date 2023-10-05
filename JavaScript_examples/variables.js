@@ -7,4 +7,4 @@ let month = 10;
 // Creating variable with 'const'(Unchangeable value)
 const day = 05;
 
-console.log(month, day, year);
+console.log(`${month}/${day}/${year}`);
