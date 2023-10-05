@@ -32,6 +32,7 @@
 
 ## How to Install
 
+<div style="background-color: red; padding: 10px;">
 1. Update the packages and install **git**:
    ```bash
    pkg update -y
