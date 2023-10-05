@@ -3,6 +3,8 @@
 ![Termux Logo](images/20231004_154308.jpg)
 [**Join our *Discord***](https://discord.gg/YtNqf4xP)
 
+## Still in development...
+
 **UpTermux** is a repository designed to enhance your Termux experience, providing useful features and simplifying the maintenance of your environment.
 
 ***Note:*** I recommend you install Termux from the **F-DROID** website or via **Termux's GitHub**. Websites:
