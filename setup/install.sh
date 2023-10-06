@@ -30,6 +30,9 @@ clear
 echo "Installing Cmatrix & FFMPEG"
 pkg install cmatrix ffmpeg -y
 clear
+echo "Installing Mono"
+pkg install mono -y
+clear
 
 echo "Everything installed. Now go to the 'aliases' folder to place the aliases/shortcuts: cd ~/UpTermux/Aliases."
 echo " "
